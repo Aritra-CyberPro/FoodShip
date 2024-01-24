@@ -1,0 +1,18 @@
+@import "./partials";
+
+#profile-pic{
+    position: relative;
+    left: 0%;
+    top: 0;
+    width: 220px;
+}
+.profile-label{
+    color: $secondary_colour;
+}
+.profile-box{
+    border-bottom: 2px solid $secondary_colour;
+}
+
+.address-box{
+    background-color: none;
+}
