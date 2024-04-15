@@ -40,10 +40,9 @@ To run this project, you will need to add the following environment variables to
 Create a folder and open terminal and install this project by
 command 
 ```bash
-https://github.com/Aritra-Mondal-ICS/FoodShip.git
-
+https://github.com/Aritra-ISS/FoodShip.git
 ```
-or simply download this project from https://github.com/Aritra-Mondal-ICS/FoodShip.git
+or simply download this project from https://github.com/Aritra-ISS/FoodShip.git
 In project directory Create a virtual environment(say env)
 
 ```bash
