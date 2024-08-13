@@ -40,7 +40,7 @@ To run this project, you will need to add the following environment variables to
 Create a folder and open terminal and install this project by
 command 
 ```bash
-https://github.com/Aritra-CyberPro/FoodShip.git
+git clone https://github.com/Aritra-CyberPro/FoodShip.git
 ```
 In project directory Create a virtual environment(say env)
 
